@@ -1,4 +1,5 @@
 # USD-INR convertor (live)
+### [usd-inr.epizy.com](usd-inr.epizy.com)
 - This web app displays the price of INR equivalent to 1USD
 - User needs to login to view the USD-INR conversion.
 
